@@ -2,7 +2,7 @@
 
 ### Overview
 
-This directory contains ten small exercises demonstrating register-level GPIO LED control on the ATmega2560 microcontroller (Arduino Mega). All programs are written in C and use direct register access only, without Arduino helper functions. Each exercise is accompanied by a Wokwi simulation link corresponding to the given problem.
+This directory contains ten small problems demonstrating register-level GPIO LED control on the ATmega2560 microcontroller (Arduino Mega). All programs are written in C and use direct register access only, without Arduino helper functions. Each exercise is accompanied by a Wokwi simulation link corresponding to the given problem.
 ___
 
 ### Files
