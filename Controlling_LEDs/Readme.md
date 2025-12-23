@@ -4,4 +4,7 @@ using direct register-level programming.
 
 
 ## Sets
-- [Set 1 – Basic LED Control](./Set_1/)
+- [Set 1](./Set_1/)
+- [Set 2](./Set_2/)
+- [Set 3](./Set_3/)
+- [Set 4](./Set_4/)
