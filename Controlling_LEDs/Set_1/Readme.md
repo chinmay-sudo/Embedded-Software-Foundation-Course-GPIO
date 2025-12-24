@@ -3,13 +3,13 @@
 ### Overview
 
 This directory contains ten small problems demonstrating register-level GPIO LED control on the ATmega2560 microcontroller (Arduino Mega). All programs are written in C and use direct register access only, without Arduino helper functions. Each exercise is accompanied by a Wokwi simulation link corresponding to the given problem.
-___
+------
 
 ### Files
 
 - Source files: `ETALVIS_LED_Set_1_Problem_*.c` (one file per problem)
 - This README: `Readme.md`
-___
+------
 
 ### Set - 1 Problems
 
