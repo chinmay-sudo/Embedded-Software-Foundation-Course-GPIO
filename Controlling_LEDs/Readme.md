@@ -2,7 +2,7 @@
 
 ## Overview
 
-This module contains my practice problems for learning bare-metal GPIO programming on the ATmega2560 microcontroller (Arduino Mega). All programs are written in C using direct register manipulation (DDRx and PORTx) without Arduino library functions.
+This module contains practice problems for learning bare-metal GPIO programming on the ATmega2560 microcontroller (Arduino Mega). All programs are written in C using direct register manipulation (DDRx and PORTx) without Arduino library functions.
 
 ## What I Learned
 
