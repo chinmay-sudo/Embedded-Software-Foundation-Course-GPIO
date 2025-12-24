@@ -1,19 +1,15 @@
-# Set - 1
+# Set 1 – Basic LED Control
 
 ## Overview
 
 This directory contains ten small problems demonstrating register-level GPIO LED control on the ATmega2560 microcontroller (Arduino Mega). All programs are written in C and use direct register access only, without Arduino helper functions. Each exercise is accompanied by a Wokwi simulation link corresponding to the given problem.
 
-------
-
 ## Files
 
 - Source files: `ETALVIS_LED_Set_1_Problem_*.c` (one file per problem)
 - This README: `Readme.md`
-  
-------
 
-## Set - 1 Problems
+## Set 1 Problems
 
 1. Connect a LED to port J bit 0. Glow LSB LED only (bit 0)  
    Simulation: https://wokwi.com/projects/451019860326747137

@@ -1,7 +1,6 @@
 # Embedded Software Foundation Course – GPIO
 
-This repository contains bare-metal GPIO practice problems completed as part of the
-Embedded Software Foundation Course - GPIO from etalvis.com 
+This repository contains bare-metal GPIO practice problems completed as part of the **Embedded Software Foundation Course - GPIO** from etalvis.com 
 
-## Modules
+## Contents
 - [Controlling LEDs](./Controlling_LEDs/)
