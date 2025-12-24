@@ -1,15 +1,15 @@
-# Set 2 
+# Set 2
 
 ## Overview
 
-This directory contains ten small problems demonstrating register-level GPIO LED control on the ATmega2560 microcontroller (Arduino Mega). All programs are written in C and use direct register access only, without Arduino helper functions. Each problem is accompanied by a Wokwi simulation link corresponding to the given problem.
+This directory contains ten problems demonstrating sequential LED control and timing on the ATmega2560 microcontroller (Arduino Mega). All programs use direct register access without Arduino helper functions. Each problem includes a Wokwi simulation link.
 
 ## Files
 
-- Source files: `ETALVIS_LED_Set_2_Problem_*.c` (one file per problem)
-- This README: `Readme.md`
+- Source files: `ETALVIS_LED_Set_2_Problem_*.c`
+- README: `Readme.md`
 
-## Set 2 Problems
+## Problems
 
 1. Connect a LED to port J bit 0. Blink LSB LED every second (bit 0)  
    Simulation: https://wokwi.com/projects/451101558101574657
