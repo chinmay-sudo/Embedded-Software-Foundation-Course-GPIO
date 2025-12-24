@@ -26,10 +26,10 @@ All problems use a Common Cathode 7 Segment Display connected to Port A.
    Simulation: https://wokwi.com/projects/451205317736202241
 
 5. DISPLAY number "4" on the display  
-   Simulation: https://wokwi.com/projects/451205729344261121
+   Simulation: https://wokwi.com/projects/451205610350793729
 
 6. DISPLAY number "5" on the display  
-   Simulation: https://wokwi.com/projects/451205790026406913
+   Simulation: https://wokwi.com/projects/451205729344261121
 
 7. DISPLAY number "6" on the display  
    Simulation: https://wokwi.com/projects/451205790026406913
