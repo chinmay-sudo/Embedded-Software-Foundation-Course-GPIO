@@ -1,4 +1,4 @@
-# Set 1 – Basic LED Control
+# Set 1
 
 ## Overview
 
