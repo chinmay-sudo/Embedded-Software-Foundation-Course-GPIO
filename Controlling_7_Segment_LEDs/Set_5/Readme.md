@@ -6,7 +6,7 @@ This directory contains ten problems demonstrating 7-segment display control on 
 
 ## Files
 
-- Source files: `ETALVIS_7Segment_Set_5_Problem_*.c`
+- Source files: `ETALVIS_7_Seg_Set_5_Problem_*.c`
 - README: `Readme.md`
 
 ## Problems
