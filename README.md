@@ -7,6 +7,10 @@ This repository contains bare-metal GPIO practice problems completed as part of 
 - [Controlling LEDs](./Controlling_LEDs/)
 - [Controlling 7-Segment LEDs](./Controlling_7_Segment_LEDs/)
 
+## Structure
+Each module contains:
+- Source files (`.c`)
+- README with problem descriptions and Wokwi simulation links
 
 ## Tools Used
 
