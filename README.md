@@ -8,7 +8,7 @@ This repository contains bare-metal GPIO practice problems completed as part of 
 - [Controlling 7 Segment Displays](./Controlling_7_Segment_Displays/)
 
 ## Structure
-Each module contains:
+Each module contains sets with:
 - Source files (`.c`)
 - README with problem descriptions and Wokwi simulation links
 
