@@ -5,7 +5,7 @@ This repository contains bare-metal GPIO practice problems completed as part of 
 ## Contents
 
 - [Controlling LEDs](./Controlling_LEDs/)
-- [Controlling 7-Segment LEDs](./Controlling_7_Segment_LEDs/)
+- [Controlling 7 Segment Displays](./Controlling_7_Segment_Displays/)
 
 ## Structure
 Each module contains:
