@@ -7,6 +7,7 @@ This repository contains bare-metal GPIO practice problems completed as part of 
 - [Controlling LEDs](./Controlling_LEDs/)
 - [Controlling 7 Segment Displays](./Controlling_7_Segment_Displays/)
 - [Monitoring Push Button Switches](./Monitoring_Push_Button_Switches/)
+- [Reading Keypad Matrix](./Reading_Keypad_Matrix/)
 
 ## Structure
 Each module contains sets with:
