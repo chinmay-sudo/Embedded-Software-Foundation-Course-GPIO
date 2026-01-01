@@ -7,7 +7,16 @@ This directory contains ten problems demonstrating 8x8 dot matrix LED control on
 ## Files
 
 - Source files: `ETALVIS_DotMatrix_Set_11_Problem_*.c`
+- Header file: `led_matrix.h`
 - README: `Readme.md`
+
+## Helper Library
+
+The `led_matrix.h` library provides a helper function for dot matrix port initialization:
+```c
+// Initialize port directions for row and column (sets both as output)
+void init_port(char *DDRx_Row, char *DDRx_Column);
+```
 
 ## Problems
 
