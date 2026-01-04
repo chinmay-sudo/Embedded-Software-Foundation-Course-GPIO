@@ -1,9 +1,8 @@
-
 #include <stdint.h>
 // Function Prototypes
 void init_port(volatile char *DDRx_Row, volatile char *DDRx_Column);
 void init_display(volatile char *PORTx_Row, volatile char *PORTx_Column);
-void display(char *row_arr, char *column_arr, long delay_count);
+void display(uint8_t *row_arr, uint8_t *column_arr, long delay_count);
 void delay_(long num);
 
 // variables to store row and column port pointers
@@ -33,7 +32,7 @@ void init_display(volatile char *PORTx_Row, volatile char *PORTx_Column){
 }
 
 // Function to display data on the Dot Matrix
-void display(char *row_arr, char *column_arr, long delay_count ){
+void display(uint8_t *row_arr, uint8_t *column_arr, long delay_count){
   for(uint8_t i =0; i<8;i++){
     *Row_port = 0xFF;
     *Column_port = 0x00;
