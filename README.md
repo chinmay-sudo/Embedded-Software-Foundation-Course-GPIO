@@ -8,10 +8,12 @@ This repository contains bare-metal GPIO practice problems completed as part of 
 - [Controlling 7 Segment Displays](./Controlling_7_Segment_Displays/)
 - [Monitoring Push Button Switches](./Monitoring_Push_Button_Switches/)
 - [Reading Keypad Matrix](./Reading_Keypad_Matrix/)
+- [Controlling Dot Matrix](./Controlling_Dot_Matrix/)
 
 ## Structure
 Each module contains sets with:
 - Source files (`.c`)
+- Header files (`.h`)
 - README with problem descriptions and Wokwi simulation links
 
 ## Tools Used
